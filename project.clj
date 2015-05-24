@@ -11,3 +11,4 @@
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}}
   :jvm-opts ["-Xmx4096m", "-Xms1024m"])
+  

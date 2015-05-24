@@ -4,7 +4,6 @@
             [iota :as io]
             [nonprofits.levenshtein :refer [levenshtein]]))
 
-  
 ;; filename constants
 (def resdir "resources/")
 (def contracts-fname (str resdir "NYC nonprofits with contracts.csv"))
